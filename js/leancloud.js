@@ -1,7 +1,7 @@
 // LeanCloud 应用配置
-const APP_ID = 'I4dflfOwWH3qr9VubW8wP8CG-MdYXbMMI';
-const APP_KEY = 'w4p79IYWKeMYjqxK0szHybio';
-const SERVER_URL = 'https://i4dflfow.api.lncldglobal.com';
+const APP_ID = 'MJfpsORj5jI7XLwhlCwiZov1-gzGzoHsz';
+const APP_KEY = 'wwsD6wzDWhQ05UaBcRgRqf2K';
+const SERVER_URL = 'https://mjfpsorj.lc-cn-n1-shared.com';
 
 // 初始化 LeanCloud
 export function initLeanCloud() {
